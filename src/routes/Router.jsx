@@ -5,7 +5,7 @@ import Home from "../pages/Home.jsx";
 import Login from "../pages/Login.jsx";
 import Register from "../pages/Register.jsx";
 import ToyDetails from "../pages/ToyDetails.jsx";
-import Profile from "../pages/Profile.jsx";
+import Profile from "../pages/profile.jsx";
 import ForgotPassword from "../pages/ForgotPassword.jsx";
 import ExtraPage from "../pages/ExtraPage.jsx";
 import NotFound from "../pages/NotFound.jsx";
