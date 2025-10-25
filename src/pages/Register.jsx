@@ -55,11 +55,7 @@ export default function Register() {
       await signInWithPopup(auth, provider);
       toast.success("Signed up with Google");
       navigate("/");
-<<<<<<< HEAD
     } catch (err) {
-=======
-    } catch (error) {
->>>>>>> 44ba30f ( Meaningful Message)
       toast.error("Google signup failed");
     } finally {
       setLoading(false);
