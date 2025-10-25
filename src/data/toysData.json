@@ -1,0 +1,322 @@
+[
+  {
+    "toyId": 1,
+    "toyName": "Lego Classic Bricks",
+    "sellerName": "Toys R Us Local",
+    "sellerEmail": "contact@toysruslocal.com",
+    "price": 49.99,
+    "rating": 4.7,
+    "availableQuantity": 75,
+    "description": "A timeless set of colorful Lego bricks that encourages creativity and problem-solving.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/3x3QzSGq/lego-classic.png",
+=======
+    "pictureURL": "https://m.media-amazon.com/images/I/71C-nuAyCPL._AC_SL1095_.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 2,
+    "toyName": "Remote Control Car",
+    "sellerName": "Speedy Toys",
+    "sellerEmail": "sales@speedytoys.com",
+    "price": 29.99,
+    "rating": 4.5,
+    "availableQuantity": 50,
+    "description": "Zoom into fun with this high-speed remote control car, perfect for racing enthusiasts.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/8PqYgKZy/rc-car.png",
+=======
+    "pictureURL": "https://media.gettyimages.com/id/466749706/vector/stock-race-car.jpg?s=2048x2048&w=gi&k=20&c=DRzveRjmzI045CZtYCR1h2FK03xF922MozKP6fGA7yE=",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Vehicles"
+  },
+  {
+    "toyId": 3,
+    "toyName": "Barbie Dreamhouse",
+    "sellerName": "Doll World",
+    "sellerEmail": "info@dollworld.com",
+    "price": 89.99,
+    "rating": 4.8,
+    "availableQuantity": 30,
+    "description": "A luxurious dreamhouse for Barbie and friends, packed with stylish furniture and accessories.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/3JZyYvYy/barbie-house.png",
+=======
+    "pictureURL": "https://m.media-amazon.com/images/M/MV5BNzM5NmQzNzktMmM3Yy00MjgwLTg3NmEtYmJhZGE2N2RkZWJiXkEyXkFqcGc@._V1_QL75_UX582_.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Dolls"
+  },
+  {
+    "toyId": 4,
+    "toyName": "Puzzle Mania 1000",
+    "sellerName": "Brain Boosters",
+    "sellerEmail": "support@brainboosters.com",
+    "price": 19.99,
+    "rating": 4.3,
+    "availableQuantity": 100,
+    "description": "Challenge your mind with this 1000-piece puzzle featuring a stunning landscape.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/4yYJ7g6Z/puzzle.png",
+=======
+    "pictureURL": "https://puzzlemania-154aa.kxcdn.com/products/2025/puzzle-masterpieces-1000-pieces-snowman-spectable.webp",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Puzzles"
+  },
+  {
+    "toyId": 5,
+    "toyName": "Magic Science Kit",
+    "sellerName": "EduToys",
+    "sellerEmail": "hello@edutoys.com",
+    "price": 34.99,
+    "rating": 4.6,
+    "availableQuantity": 40,
+    "description": "Explore the wonders of chemistry with this fun and safe science kit for kids.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/2yYvJZzF/science-kit.png",
+=======
+    "pictureURL": "https://m.media-amazon.com/images/I/71M-utGWUGL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Educational"
+  },
+  {
+    "toyId": 6,
+    "toyName": "Superhero Action Figures",
+    "sellerName": "Hero Hub",
+    "sellerEmail": "contact@herohub.com",
+    "price": 24.99,
+    "rating": 4.4,
+    "availableQuantity": 60,
+    "description": "Unleash your imagination with these detailed superhero action figures.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/3RZyYvYy/superhero.png",
+=======
+    "pictureURL": "https://lh4.googleusercontent.com/proxy/1RToMAhTIw1QteakOd3i7y5n-FP4Z3W3NkDNa_P-rV44VVPJjdk64j5oWFlQHkSzOqOLfzUn5kkGKs5lfuXQ6_grintONkjH",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Action Figures"
+  },
+  {
+    "toyId": 7,
+    "toyName": "Mini Kitchen Set",
+    "sellerName": "Tiny Chef",
+    "sellerEmail": "sales@tinychef.com",
+    "price": 39.99,
+    "rating": 4.5,
+    "availableQuantity": 45,
+    "description": "Cook up creativity with this adorable mini kitchen set for kids.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/4NfYJ7g6Z/kitchen-set.png",
+=======
+    "pictureURL": "https://rokbucket.rokomari.io/ProductNew20190903/260X372/Kitchen_Playset_Toy_Modern_Kitchen_Set_M-Not_Applicable-0238e-285412.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Role Play"
+  },
+  {
+    "toyId": 8,
+    "toyName": "Animal Figurine Pack",
+    "sellerName": "Wild Wonders",
+    "sellerEmail": "info@wildwonders.com",
+    "price": 22.99,
+    "rating": 4.2,
+    "availableQuantity": 80,
+    "description": "Discover wildlife with this pack of realistic animal figurines.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/2yYvJZzF/animal-pack.png",
+=======
+    "pictureURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRipwo8T211BBNuPqwb7nqzua-cNP-WBcfz4w&s",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Figurines"
+  },
+  {
+    "toyId": 9,
+    "toyName": "Train Set Deluxe",
+    "sellerName": "Track Masters",
+    "sellerEmail": "support@trackmasters.com",
+    "price": 59.99,
+    "rating": 4.6,
+    "availableQuantity": 35,
+    "description": "All aboard! A deluxe train set with tracks, stations, and realistic sound effects.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/3JZyYvYy/train-set.png",
+=======
+    "pictureURL": "https://www.tinylandus.com/cdn/shop/articles/102-pc-all-aboard-deluxe-wooden-train-set-an-immersive-playtime-experience-tiny-land_520x500-440285_b192f890-c1ac-4ba8-be9e-634a33c601d4.jpg?v=1757386911",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Vehicles"
+  },
+  {
+    "toyId": 10,
+    "toyName": "Musical Instrument Kit",
+    "sellerName": "Melody Makers",
+    "sellerEmail": "hello@melodymakers.com",
+    "price": 27.99,
+    "rating": 4.3,
+    "availableQuantity": 55,
+    "description": "Introduce kids to music with this colorful set of mini instruments.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/8PqYgKZy/music-kit.png",
+=======
+    "pictureURL": "https://www.sensoryeducation.co.uk/cdn/shop/files/african-adventure-music-kit.webp?v=1759677806&width=400",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Musical Toys"
+  },
+  {
+    "toyId": 21,
+    "toyName": "Space Explorer Rocket",
+    "sellerName": "Galaxy Toys",
+    "sellerEmail": "info@galaxytoys.com",
+    "price": 44.99,
+    "rating": 4.6,
+    "availableQuantity": 40,
+    "description": "Blast off into adventure with this detailed space rocket playset.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/3JZyYvYy/space-rocket.png",
+=======
+    "pictureURL": "https://static-01.daraz.com.bd/p/a7a02dc1f0c5c0b50360301ad620462f.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Vehicles"
+  },
+  {
+    "toyId": 22,
+    "toyName": "Farm Animal Puzzle",
+    "sellerName": "Puzzle Barn",
+    "sellerEmail": "hello@puzzlebarn.com",
+    "price": 16.99,
+    "rating": 4.3,
+    "availableQuantity": 65,
+    "description": "Match the animals to their homes in this fun farm-themed puzzle.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/4yYJ7g6Z/farm-puzzle.png",
+=======
+    "pictureURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREcoSTb7bQkeUkyBymz6v0yEshAUh1nIe5Dw&s",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Puzzles"
+  },
+  {
+    "toyId": 23,
+    "toyName": "Robot Builder Kit",
+    "sellerName": "Tech Tots",
+    "sellerEmail": "support@techtots.com",
+    "price": 38.5,
+    "rating": 4.7,
+    "availableQuantity": 30,
+    "description": "Build and program your own robot with this STEM-friendly kit.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/2yYvJZzF/robot-kit.png",
+=======
+    "pictureURL": "https://m.media-amazon.com/images/I/81kTPRRbZ4L.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Educational"
+  },
+  {
+    "toyId": 24,
+    "toyName": "Pirate Ship Adventure",
+    "sellerName": "Treasure Toys",
+    "sellerEmail": "contact@treasuretoys.com",
+    "price": 42.99,
+    "rating": 4.5,
+    "availableQuantity": 50,
+    "description": "Sail the high seas with this detailed pirate ship and crew.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/3RZyYvYy/pirate-ship.png",
+=======
+    "pictureURL": "https://m.media-amazon.com/images/I/71DnVmLv2rL._AC_UF894,1000_QL80_.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Role Play"
+  },
+  {
+    "toyId": 25,
+    "toyName": "Coloring Book Combo",
+    "sellerName": "Creative Minds",
+    "sellerEmail": "info@creativeminds.com",
+    "price": 12.99,
+    "rating": 4.2,
+    "availableQuantity": 100,
+    "description": "A set of themed coloring books with crayons and stickers.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/8PqYgKZy/coloring-book.png",
+=======
+    "pictureURL": "https://images-cdn.ubuy.co.in/635e00af00905d552550c4c3-paw-patrol-angry-birds-disney-puppy.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Art Supplies"
+  },
+  {
+    "toyId": 26,
+    "toyName": "Mini Basketball Hoop",
+    "sellerName": "Sporty Kids",
+    "sellerEmail": "sales@sportykids.com",
+    "price": 25.99,
+    "rating": 4.4,
+    "availableQuantity": 70,
+    "description": "Practice your shots with this indoor mini basketball hoop.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/3x3QzSGq/basketball-hoop.png",
+=======
+    "pictureURL": "https://cdn.bdstall.com/product-image/giant_239291.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Sports"
+  },
+  {
+    "toyId": 27,
+    "toyName": "Fairy Garden Set",
+    "sellerName": "Magic Bloom",
+    "sellerEmail": "hello@magicbloom.com",
+    "price": 29.99,
+    "rating": 4.5,
+    "availableQuantity": 45,
+    "description": "Create a magical garden with fairies, flowers, and lights.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/4NfYJ7g6Z/fairy-garden.png",
+=======
+    "pictureURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFZJQ5JApFEWQVp6d74TUy4yIu0PzxMT7Zg&s",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Fantasy"
+  },
+  {
+    "toyId": 28,
+    "toyName": "Alphabet Flash Cards",
+    "sellerName": "Learn & Play",
+    "sellerEmail": "info@learnplay.com",
+    "price": 10.99,
+    "rating": 4.3,
+    "availableQuantity": 90,
+    "description": "Bright and engaging flash cards to teach the alphabet.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/2yYvJZzF/flash-cards.png",
+=======
+    "pictureURL": "https://www.totcards.com/img/alphabet-flash-cards-2x.png",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Educational"
+  },
+  {
+    "toyId": 29,
+    "toyName": "Toy Doctor Kit",
+    "sellerName": "Little Healers",
+    "sellerEmail": "support@littlehealers.com",
+    "price": 22.99,
+    "rating": 4.6,
+    "availableQuantity": 55,
+    "description": "Pretend to be a doctor with this complete medical playset.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/3JZyYvYy/doctor-kit.png",
+=======
+    "pictureURL": "https://images-na.ssl-images-amazon.com/images/I/51TaMHySzSL._SL500_._AC_SL500_.jpg",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Role Play"
+  },
+  {
+    "toyId": 30,
+    "toyName": "Safari Jeep & Animals",
+    "sellerName": "Adventure Zone",
+    "sellerEmail": "contact@adventurezone.com",
+    "price": 34.99,
+    "rating": 4.4,
+    "availableQuantity": 60,
+    "description": "Explore the wild with this safari jeep and animal figures.",
+<<<<<<< HEAD
+    "pictureURL": "https://i.postimg.cc/8PqYgKZy/safari-jeep.png",
+=======
+    "pictureURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSe7M9VptJmcqFVYsR5zgfKiGCoiMvyXS7GA&s",
+>>>>>>> 44ba30f ( Meaningful Message)
+    "subCategory": "Vehicles"
+  }
+]
